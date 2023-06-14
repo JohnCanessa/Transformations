@@ -11,7 +11,7 @@ as many times as needed.
 If you wwant to read additional comments I invite you to read
 the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2023/06/14/transformations/
 
 Keep on learning,
 
